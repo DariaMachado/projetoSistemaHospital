@@ -1,0 +1,2 @@
+# projetoSistemaHospital
+Projeto Integrador desenvolvido no segundo semestre do Curso de Análise e Desenvolvimento de Sistemas. A ideia consistia em fazer um sistema de um Hospital em linguagem C (que estaria associado a um sensor de temperatura em tempo real acoplado a pacientes), com  um login para o profissional de saúde, que permite a consulta da lista de pacientes, bem como o cadastro, alteração, exclusão e visualização dos dados de cada paciente. Há também um login de paciente  para consultar o histórico de temperaturas.
